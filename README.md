@@ -4,3 +4,5 @@ I am a Fullstack Javascript Developer. I dabble on lot of things from gardening 
 I am currently working as a Senior Software Engineer at John Deere.
 
 I am currently messing with things like AWS, DevOps, Jenkins, and Frontend Development with React.
+
+And I am dealing with hosting jellyfin inside a kubernetes cluster in a proxmox server .. _its not easy_ 😜
